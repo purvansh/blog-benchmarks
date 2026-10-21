@@ -44,6 +44,10 @@ TREE=/path/to/some/repo ./final.sh
 | 2026-10-09 | [Eight HTTP clients against a server that never answers](https://purvansh.site/blog/http-clients-that-wait-forever) | [`2026-10-09-http-timeouts`](./2026-10-09-http-timeouts) |
 | 2026-10-10 | [Five Python installers, nineteen packages](https://purvansh.site/blog/python-installers-cold-and-warm) | [`2026-10-10-python-installers`](./2026-10-10-python-installers) |
 | 2026-10-14 | [One repo, four file watchers](https://purvansh.site/blog/four-file-watchers-one-kernel-budget) | [`2026-10-14-file-watchers`](./2026-10-14-file-watchers) |
+| 2026-10-11 | [A hundred thousand vectors, six HNSW settings](https://purvansh.site/blog/hnsw-settings-and-the-biggest-index) | [`2026-10-11-hnsw-settings`](./2026-10-11-hnsw-settings) |
+| 2026-10-15 | [Five schedulers, one missed window](https://purvansh.site/blog/schedulers-and-the-missed-window) | [`2026-10-15-schedulers`](./2026-10-15-schedulers) |
+| 2026-10-17 | [Four diff algorithms over 800 commits](https://purvansh.site/blog/diff-algorithms-over-800-commits) | [`2026-10-17-diff-algorithms`](./2026-10-17-diff-algorithms) |
+| 2026-10-21 | [Five popular MCP servers, read for their defaults](https://purvansh.site/blog/mcp-server-defaults-read-closely) | [`2026-10-21-mcp-defaults`](./2026-10-21-mcp-defaults) |
 
 ## A note on the numbers that changed
 
