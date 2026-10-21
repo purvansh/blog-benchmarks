@@ -1,0 +1,10 @@
+35 BUG1 item may be None
+39 BUG2 int += str
+44 BUG3 no such attribute
+51 BUG4 falls through to None
+58 BUG5 dict, not list
+62 BUG6 add takes 1 arg
+65 BUG7 values are str
+75 BUG8 missing await
+83 BUG9 joining Optional[Item]
+91 BUG10 str for int
